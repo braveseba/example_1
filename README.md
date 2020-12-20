@@ -1,2 +1,2 @@
 # example_1
-## I will try to use githup
+## I will try to use github
